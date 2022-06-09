@@ -1,8 +1,11 @@
-
-body {
+*{
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+}
+body {
+
+
     font-family: "Courier New", Courier, monospace;
     background: linear-gradient(89deg, #6A7FDB 0%, #57E2E5 100%);
 }

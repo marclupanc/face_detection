@@ -1,0 +1,28 @@
+.open-close {
+    text-align: center;
+    padding: 10px;
+}
+
+.btn {
+    cursor: pointer;
+    background-color: green;
+    color: white;
+    padding: 15px;
+    font-size: 25px;
+    border: none;
+    border-radius: 10px;
+}
+
+.player {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.video {
+    border-radius: 10px;
+}
+
+.canvas {
+    position: absolute;
+}
